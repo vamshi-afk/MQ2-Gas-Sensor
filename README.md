@@ -41,16 +41,20 @@ A detailed circuit diagram is available in `docs/circuit_diagram.png`. Follow th
 ### Software Installation
 
 1.  **Clone the repository:**
+
     ```bash
     git clone [https://github.com/vamshi-afk/MQ2-Gas-Sensor.git](https://github.com/vamshi-afk/MQ2-Gas-Sensor.git)
     ```
-2.  **Navigate to the project directory:**
+    
+3.  **Navigate to the project directory:**
+
     ```bash
     cd MQ2-Gas-Sensor
     ```
-3.  **Open the Arduino Sketch:**
+    
+5.  **Open the Arduino Sketch:**
     * Open the `MQ2.ino` file using the Arduino IDE.
-4.  **Upload to Arduino Board:**
+6.  **Upload to Arduino Board:**
     * Connect your Arduino board to your computer.
     * Select the correct board and port from the `Tools` menu in the Arduino IDE.
     * Click the "Upload" button to compile and upload the code to your Arduino.
