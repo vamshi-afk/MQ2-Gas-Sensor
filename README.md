@@ -42,11 +42,15 @@ A detailed circuit diagram is available in `docs/circuit_diagram.png`. Follow th
 
 1.  **Clone the repository:**
     ```bash
+    
     git clone [https://github.com/vamshi-afk/MQ2-Gas-Sensor.git](https://github.com/vamshi-afk/MQ2-Gas-Sensor.git)
+    
     ```
 2.  **Navigate to the project directory:**
     ```bash
+    
     cd MQ2-Gas-Sensor
+
     ```
 3.  **Open the Arduino Sketch:**
     * Open the `MQ2.ino` file using the Arduino IDE.
