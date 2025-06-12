@@ -103,6 +103,10 @@ This smoke detection system is a practical solution for various scenarios:
 
 Feel free to fork this repository, open issues, and submit pull requests. Any contributions to improve the code, documentation, or add new features are welcome!
 
+## Acknowledgment
+
+This project was completed in collaboration with [@srikark7](https://github.com/srikark7), and [@user3](https://github.com/user3), who each contributed significantly to its development.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
