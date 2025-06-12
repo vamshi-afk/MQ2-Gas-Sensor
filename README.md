@@ -105,7 +105,7 @@ Feel free to fork this repository, open issues, and submit pull requests. Any co
 
 ## Acknowledgment
 
-This project was completed in collaboration with [@srikark7](https://github.com/srikark7), and [@user3](https://github.com/user3), who each contributed significantly to its development.
+This project was completed in collaboration with [@srikark7](https://github.com/srikark7), and [@Ruthvik136](https://github.com/Ruthvik136), who each contributed significantly to its development.
 
 ## 📄 License
 
